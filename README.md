@@ -1,3 +1,10 @@
+<img width="1680" height="1050" alt="Screenshot 2025-07-17 at 5 17 03 PM" src="https://github.com/user-attachments/assets/752393af-98ad-4f7b-8170-4b2d3ab3945d" />
+
+<img width="1680" height="1050" alt="Screenshot 2025-07-17 at 5 16 05 PM" src="https://github.com/user-attachments/assets/03d8fb4f-232a-479c-8b42-bac300ba8208" />
+
+
+
+
 # RAG-QA-System
 
 This project implements a Retrieval-Augmented Generation (RAG) system for document-based medical question answering using open-source LLMs. It is designed to be modular, clean, and suitable for both Jupyter Notebook environments and deployment with Streamlit.
